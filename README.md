@@ -9,3 +9,10 @@ Feel free to use as needed! :)
 - MATH117: didn't take notes
 - MATH135: didn't take notes
 - SE101: didn't take notes
+
+1B:
+- CS138: notes included
+- ECE106: notes included
+- ECE124: notes included
+- MATH119: notes included
+- ECE140: notes included

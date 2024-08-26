@@ -26,4 +26,5 @@ Feel free to use as needed! :)
   - SE 201 - Seminar
   - SE 212 - Logic and Computation
   - STAT 206 - Statistics for Software Engineering
-  I plan on making notes for all of these classes (apart from SE201, as it's a seminar.) Check again later! :)
+
+  - I plan on making notes for all of these classes (apart from SE201, as it's a seminar.) Check again later! :)

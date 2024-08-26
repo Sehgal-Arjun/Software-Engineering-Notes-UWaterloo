@@ -17,7 +17,8 @@ Feel free to use as needed! :)
   - [MATH 119](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/MATH119.pdf) - Calculus 2 for Engineering
   - [ECE 140](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/ECE140.pdf) - Linear Circuits
 
-2A:
+**2A:**
+
   I'll begin 2A in September. Here are the classes I'll be in:
   - CHE 102 - Chemistry for Engineers
   - CS 241E - Foundations of Sequential Programs (Enriched)

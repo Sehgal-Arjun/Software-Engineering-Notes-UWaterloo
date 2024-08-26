@@ -7,7 +7,7 @@ Feel free to use as needed! :)
 - ECE105: didn't take notes
 - MATH115: notes included
 - MATH117: didn't take notes
-- MATH135: didn't take notes
+- MATH135: notes included (but they're not great)
 - SE101: didn't take notes
 
 1B:

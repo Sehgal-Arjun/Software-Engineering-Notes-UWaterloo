@@ -2,13 +2,15 @@ An ongoing collection of my notes from the University of Waterloo Software Engin
 
 Feel free to use as needed! :)
 
-1A:
-  - CS137: notes included
-  - ECE105: didn't take notes
-  - MATH115: notes included
-  - MATH117: didn't take notes
-  - MATH135: notes included (but they're not great)
-  - SE101: didn't take notes
+**1A:**
+  Included:
+    - CS137 - Programming Principles
+    - MATH 115 - Linear Algebra for Engineering
+    - MATH 135 - Algebra for Honours Mathematics
+  Not Included:
+    - ECE 105 - Classical Mechanics
+    - MATH 117 - Calculus 1 for Engineering
+    - SE 101 - Introduction to Methods of Software Engineering
 
 1B:
   - CS138: notes included

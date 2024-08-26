@@ -3,27 +3,27 @@ An ongoing collection of my notes from the University of Waterloo Software Engin
 Feel free to use as needed! :)
 
 **1A:**
-  - [CS137]([url](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1A/CS137.txt)) - Programming Principles
-  - [MATH 115]([url](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1A/MATH115.pdf)) - Linear Algebra for Engineering
-  - [MATH 135]([url](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1A/MATH135.pdf)) - Algebra for Honours Mathematics
+  - [CS137](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1A/CS137.txt) - Programming Principles
+  - [MATH 115](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1A/MATH115.pdf) - Linear Algebra for Engineering
+  - [MATH 135](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1A/MATH135.pdf) - Algebra for Honours Mathematics
   - ECE 105 - Classical Mechanics
   - MATH 117 - Calculus 1 for Engineering
   - SE 101 - Introduction to Methods of Software Engineering
 
 **1B:**
-  - [CS 138]([url](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/CS138.txt)): notes included
-  - [ECE 106]([url](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/ECE106.pdf)): notes included
-  - [ECE 124]([url](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/ECE124.pdf)): notes included
-  - [MATH 119]([url](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/MATH119.pdf)): notes included
-  - [ECE 140]([url](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/ECE140.pdf)): notes included
+  - [CS 138](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/CS138.txt) - Introduction to Data Abstraction and Implementation
+  - [ECE 106](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/ECE106.pdf) - Electricity and Magnetism
+  - [ECE 124](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/ECE124.pdf) - Digital Circuits and Systems
+  - [MATH 119](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/MATH119.pdf) - Calculus 2 for Engineering
+  - [ECE 140](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/ECE140.pdf) - Linear Circuits
 
 2A:
   I'll begin 2A in September. Here are the classes I'll be in:
-  - CHE102
-  - CS241E
-  - ECE222
-  - ENGL109
-  - SE201
-  - SE212
-  - STAT206
+  - CHE 102 - Chemistry for Engineers
+  - CS 241E - Foundations of Sequential Programs (Enriched)
+  - ECE 222 - Digital Computers
+  - ENGL 109 - Introduction to Academic Writing
+  - SE 201 - Seminar
+  - SE 212 - Logic and Computation
+  - STAT 206 - Statistics for Software Engineering
   I plan on making notes for all of these classes (apart from SE201, as it's a seminar.) Check again later! :)

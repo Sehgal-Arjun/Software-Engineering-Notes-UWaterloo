@@ -18,14 +18,10 @@ Feel free to use as needed! :)
   - [ECE 140](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/ECE140.pdf) - Linear Circuits
 
 **2A:**
-
-  I'll begin 2A in September. Here are the classes I'll be in:
   - CHE 102 - Chemistry for Engineers
   - CS 241E - Foundations of Sequential Programs (Enriched)
-  - ECE 222 - Digital Computers
+  - ECE 222 - Digital Computers (notes included)
   - ENGL 109 - Introduction to Academic Writing
   - SE 201 - Seminar
   - SE 212 - Logic and Computation
-  - STAT 206 - Statistics for Software Engineering
-
-  - I plan on making notes for all of these classes (apart from SE201, as it's a seminar.) Check again later! :)
+  - STAT 206 - Statistics for Software Engineering (notes included)

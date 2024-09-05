@@ -18,10 +18,10 @@ Feel free to use as needed! :)
   - [ECE 140](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/ECE140.pdf) - Linear Circuits
 
 **2A:**
-  - CHE 102 - Chemistry for Engineers
+  - CHE 102 - Chemistry for Engineers (notes included)
   - CS 241E - Foundations of Sequential Programs (Enriched)
   - ECE 222 - Digital Computers (notes included)
   - ENGL 109 - Introduction to Academic Writing
   - SE 201 - Seminar
-  - SE 212 - Logic and Computation
+  - SE 212 - Logic and Computation (notes included)
   - STAT 206 - Statistics for Software Engineering (notes included)

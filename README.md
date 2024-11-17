@@ -19,7 +19,7 @@ Feel free to use as needed! :)
 
 **2A:**
   - CHE 102 - Chemistry for Engineers (notes included)
-  - CS 241E - Foundations of Sequential Programs (Enriched)
+  - CS 241E - Foundations of Sequential Programs (Enriched) (notes included)
   - ECE 222 - Digital Computers (notes included)
   - ENGL 109 - Introduction to Academic Writing
   - SE 201 - Seminar

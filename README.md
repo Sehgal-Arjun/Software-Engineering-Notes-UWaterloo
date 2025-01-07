@@ -16,12 +16,13 @@ Feel free to use as needed! :)
   - [ECE 124](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/ECE124.pdf) - Digital Circuits and Systems
   - [MATH 119](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/MATH119.pdf) - Calculus 2 for Engineering
   - [ECE 140](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/1B/ECE140.pdf) - Linear Circuits
+  - SE 102 - Seminar
 
 **2A:**
   - CHE 102 - Chemistry for Engineers (notes included)
   - CS 241E - Foundations of Sequential Programs (Enriched) (notes included)
   - ECE 222 - Digital Computers (notes included)
-  - ENGL 109 - Introduction to Academic Writing
-  - SE 201 - Seminar
   - SE 212 - Logic and Computation (notes included)
   - STAT 206 - Statistics for Software Engineering (notes included)
+  - ENGL 109 - Introduction to Academic Writing
+  - SE 201 - Seminar

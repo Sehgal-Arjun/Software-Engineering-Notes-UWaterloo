@@ -1,0 +1,5 @@
+My CS241E notes are linked here:
+
+https://arjunsehgal2022.notion.site/CS-241E-6220d1e557bb4ca5aee288076d7433d3
+
+These notes are up to and including module 9 (Typing). They do not include module 10 (Compiler) or module 11 (the heap).

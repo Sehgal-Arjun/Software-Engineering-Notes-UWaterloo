@@ -19,10 +19,10 @@ Feel free to use as needed! :)
   - SE 102 - Seminar
 
 **2A:**
-  - CHE 102 - Chemistry for Engineers (notes included)
-  - CS 241E - Foundations of Sequential Programs (Enriched) (notes included)
-  - ECE 222 - Digital Computers (notes included)
-  - SE 212 - Logic and Computation (notes included)
-  - STAT 206 - Statistics for Software Engineering (notes included)
+  - [CHE 102](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2A/CHE102.pdf) - Chemistry for Engineers (notes included)
+  - [CS 241E](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2A/CS241E.txt) - Foundations of Sequential Programs (Enriched) (notes included)
+  - [ECE 222](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2A/ECE222.pdf) - Digital Computers (notes included)
+  - [SE 212](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2A/SE212.pdf) - Logic and Computation (notes included)
+  - [STAT 206](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2A/STAT206/STAT206.pdf) - Statistics for Software Engineering (notes included)
   - ENGL 109 - Introduction to Academic Writing
   - SE 201 - Seminar

@@ -26,3 +26,11 @@ Feel free to use as needed! :)
   - [STAT 206](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2A/STAT206/STAT206.pdf) - Statistics for Software Engineering
   - ENGL 109 - Introduction to Academic Writing
   - SE 201 - Seminar
+
+**2B:**
+  - [MATH 239](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2B/MATH239.pdf) - Introduction to Combinatorics
+  - [CS 240](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2B/CS240.txt) - Data Structures and Data Management
+  - [CS 348](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2B/CS348.txt) - Introduction to Database Systems
+  - [CS 247](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2B/CS247.txt) - Software Engineering Principles
+  - ECE 192 - Engineering Economics (to be uploaded)
+  - EARTH 123 - Introductory Hydrology

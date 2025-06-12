@@ -31,6 +31,6 @@ Feel free to use as needed! :)
   - [MATH 239](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2B/MATH239.pdf) - Introduction to Combinatorics
   - [CS 240](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2B/CS240.txt) - Data Structures and Data Management
   - [CS 348](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2B/CS348.txt) - Introduction to Database Systems
-  - [CS 247](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2B/CS247.txt) - Software Engineering Principles
+  - [CS 247](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2B/CS240.pdf) - Software Engineering Principles (modules 1-3 [here](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2B/CS240Modules1-3.txt), modules 4+ [here](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/2B/CS240.pdf))
   - ECE 192 - Engineering Economics (to be uploaded)
   - EARTH 123 - Introductory Hydrology

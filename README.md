@@ -39,7 +39,7 @@ Feel free to use as needed! :)
 **3A:** (Winter 2026)
   - CS 341 - Algorithms
   - CS 349 - User Interfaces
-  - MATH 213 - Signals, Systems, and Differential Equations
+  - [MATH 213](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/3A/MATH213.pdf) - Signals, Systems, and Differential Equations
   - [SE 350](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/3A/SE350.pdf) - Operating Systems
   - SE 465 - Software Testing and Quality Assurance
   - SCI 201 - Global Warming and Climate Change

@@ -38,9 +38,9 @@ Feel free to use as needed! :)
 
 **3A:** (Winter 2026)
   - CS 341 - Algorithms
-  - [CS 349](https://arjunsehgal2022.notion.site/CS-349-2e798b6fad4d8062951dfdc5a63231b3) - User Interfaces
+  - [CS 349](https://www.notion.so/arjunsehgal2022/CS-349-2e798b6fad4d8062951dfdc5a63231b3) - User Interfaces
   - [MATH 213](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/3A/MATH213.pdf) - Signals, Systems, and Differential Equations
-  - [SE 350](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/3A/SE350.pdf) - Operating Systems
-  - [SE 465](https://arjunsehgal2022.notion.site/CS-465-2e898b6fad4d80b99a6acfa24e0ea52b) - Software Testing and Quality Assurance
+  - [SE 350](https://www.notion.so/arjunsehgal2022/SE-350-2e898b6fad4d80809335f638eca6af41) - Operating Systems
+  - [SE 465](https://www.notion.so/arjunsehgal2022/SE-465-2e898b6fad4d80b99a6acfa24e0ea52b) - Software Testing and Quality Assurance
   - SCI 201 - Global Warming and Climate Change
   - SE 301 - Seminar

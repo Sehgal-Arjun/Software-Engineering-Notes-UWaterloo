@@ -42,5 +42,6 @@ Feel free to use as needed! :)
   - [MATH 213](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/3A/MATH213.pdf) - Signals, Systems, and Differential Equations
   - [SE 350](https://www.notion.so/arjunsehgal2022/SE-350-2e898b6fad4d80809335f638eca6af41) - Operating Systems
   - [SE 465](https://www.notion.so/arjunsehgal2022/SE-465-2e898b6fad4d80b99a6acfa24e0ea52b) - Software Testing and Quality Assurance
-  - SCI 201 - Global Warming and Climate Change
+  - MSE 442 - Economic Impact of Technological Change and Entrepreneurship
+  - ENVS 205 - Sustainability: The Future We Want
   - SE 301 - Seminar

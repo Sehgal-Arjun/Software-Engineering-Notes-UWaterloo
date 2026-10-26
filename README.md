@@ -45,3 +45,9 @@ Feel free to use as needed! :)
   - MSE 442 - Economic Impact of Technological Change and Entrepreneurship
   - ENVS 205 - Sustainability: The Future We Want
   - SE 301 - Seminar
+
+**3B:** (Fall 2026)
+  This term was an exchange term completed at the Technical University of Munich.
+  - [CIT 3230000](https://github.com/Sehgal-Arjun/Software-Engineering-Notes-UWaterloo/blob/main/3B/CIT3230000.pdf) - Advanced Topics in Programming Languages (equivalent to CS 343)
+  - IN 2097 - Advanced Computer Networking (equivalent to ECE 358)
+  - IN 2309 - Advanced Topics of Software Engineering (equivalent to SE 464)
